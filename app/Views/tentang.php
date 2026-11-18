@@ -7,6 +7,10 @@
 <p>
     Sistem Informasi Akademik merupakan aplikasi
     sederhana untuk menampilkan informasi akademik.
+    Yang dibuat oleh Sukma Nur Sholehah
+    merupakan mahasiswa semester 5 
+    prodi Sistem Informasi di
+    Institut Teknologi Mojosari
 </p>
 
 <p>
